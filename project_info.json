@@ -1,0 +1,21 @@
+
+{
+
+  "project_name": "Automated Linux Package Handling System",
+
+  "developer": "Aydın Arda Demiralp",
+
+  "university": "İstinye Üniversitesi",
+
+  "department": "Bilişim Güvenliği Teknolojisi",
+
+  "course": "Açık Kaynak İşletim Sistemleri",
+
+  "term": "2025-2026 Spring",
+
+  "version": "1.0.0",
+
+  "description": "Python tabanlı, Linux (Debian/Ubuntu) sistemlerde paket yükleme, güncelleme ve bağımlılık kontrolü süreçlerini otomatize eden yönetim aracı."
+
+}
+
