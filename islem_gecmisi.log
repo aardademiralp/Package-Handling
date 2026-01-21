@@ -1,0 +1,23 @@
+[2026-01-21 03:32:42] HATA: Dosya bulunamadı -> 3
+[2026-01-21 03:46:46] HATA: Dosya bulunamadı -> 3
+[2026-01-21 03:55:15] Sistem güncelleme süreci başlatılıyor...
+[2026-01-21 03:55:15] BAŞLATILIYOR: Paket listelerini güncelleme
+[2026-01-21 03:55:55] BAŞARILI: Paket listelerini güncelleme
+[2026-01-21 03:55:55] BAŞLATILIYOR: Mevcut paketleri yükseltme
+[2026-01-21 03:58:32] HATA: Dosya bulunamadı -> 
+[2026-01-21 03:59:53] HATA: Mevcut paketleri yükseltme işlemi başarısız oldu.
+[2026-01-21 03:59:53] Hata Detayı: Terminated
+
+[2026-01-21 04:01:41] HATA: Dosya bulunamadı -> sl_5.02-1_amd64.deb
+[2026-01-21 04:04:51] HATA: Dosya bulunamadı -> /home/kali/PackageProject/sl_5.02-1_amd64.deb
+[2026-01-21 04:06:49] HATA: Dosya bulunamadı -> '/home/kali/PackageProject/sl_5.02-1+b1_amd64.deb' 
+[2026-01-21 04:08:10] HATA: Dosya bulunamadı -> '/home/kali/PackageProject/sl_5.02-1+b1_amd64.deb' 
+[2026-01-21 04:09:11] HATA: Dosya bulunamadı -> ./sl_5.02-1_amd64.deb
+[2026-01-21 04:18:26] HATA: Dosya bulunamadı -> ./sl_5.02-1_amd64.deb
+[2026-01-21 04:25:05] HATA: Dosya bulunamadı -> ./Downloads/sl_5.02-1+b1_amd64.deb
+[2026-01-21 04:26:10] ./sl_5.02-1+b1_amd64.deb kurulumu için hazırlık yapılıyor.
+[2026-01-21 04:26:10] BAŞLATILIYOR: ./sl_5.02-1+b1_amd64.deb kurulumu
+[2026-01-21 04:26:11] BAŞARILI: ./sl_5.02-1+b1_amd64.deb kurulumu
+[2026-01-21 04:28:03] ./sl_5.02-1+b1_amd64.deb kurulumu için hazırlık yapılıyor.
+[2026-01-21 04:28:03] BAŞLATILIYOR: ./sl_5.02-1+b1_amd64.deb kurulumu
+[2026-01-21 04:28:05] BAŞARILI: ./sl_5.02-1+b1_amd64.deb kurulumu
